@@ -12,7 +12,7 @@
 - **Docker**
 - **System Design**
 - **Networking**
-- 
+
 # 🤝 I'm looking for help with:
 - **learning system design and tips for future career paths**
 
