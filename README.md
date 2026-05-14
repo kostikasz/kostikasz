@@ -10,13 +10,9 @@
 - **Claude/AI skills**
 - **Prompt Engineering**
 - **Docker**
-- **Linux**
 - **System Design**
-- **Python**
 - **Networking**
-- **HTML/CSS**
-- **Node.js**
-
+- 
 # 🤝 I'm looking for help with:
 - **learning system design and tips for future career paths**
 
